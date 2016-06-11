@@ -43,6 +43,6 @@ Licensed under either of
 
 at your option.
 
-### Contribution
+## Contribution
 
 Please read [Contribution notes](CONTRIBUTING.md) before submitting a PR!
